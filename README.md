@@ -10,7 +10,7 @@ Proyek ini menggunakan model Visual Language Model (VLM) untuk melakukan Optical
  ┣ 📂test/              # Folder dataset berisi gambar plat nomor (PNG/JPG)
  ┣ 📜ocr_plate_vlm.py   # Script utama untuk memproses OCR dan evaluasi
  ┣ 📜README.md          # Dokumentasi proyek (file ini)
- ┣ 📜results            # Hasil yang keluar 
+ ┣ 📜results.csv        # Hasil yang keluar 
 ```
 
 ## Fitur
