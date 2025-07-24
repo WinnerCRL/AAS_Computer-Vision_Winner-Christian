@@ -51,6 +51,3 @@ B1234XYZ.png,B1234XYZ,B1234XZ,0.14
 - Model VLM akan mengembalikan hasil teks dari gambar plat nomor, hasil dapat bervariasi tergantung kualitas gambar.
 - CER (Character Error Rate) digunakan untuk mengukur akurasi, semakin kecil nilainya semakin baik.
 
-## Lisensi
-
-Proyek ini dibuat untuk tujuan edukasi.
